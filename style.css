@@ -1,0 +1,31 @@
+.page-header
+{
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom:1px solid rgb(98, 178, 205); 
+}
+.travel_mainDiv
+{
+    border:1px solid lightgrey
+}
+.travel_mainDiv img
+{
+    width: 100%
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.acheivement_text span 
+{
+    color: orange;
+}
